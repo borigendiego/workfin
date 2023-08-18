@@ -1,0 +1,41 @@
+
+//Colors
+
+$blue: #4D77FF;
+$black: #121212;
+$grey: #696969;
+$lightblue: #C7C9D9;
+
+//Fonts
+$manrope: 'Manrope-Regular';
+$manrope-bold: 'Manrope-Bold';
+$poppins: 'Poppins';
+$poppins-bold: 'Poppins-Bold';
+
+@font-face {
+  font-family: 'Manrope-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Manrope-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/assets/fonts/Montserrat-Bold.ttf');
+  }
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/assets/fonts/Poppins-Bold.ttf');
+  }
